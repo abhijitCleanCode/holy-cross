@@ -58,7 +58,7 @@ export default function AdmissionForm() {
 
   return (
     <>
-    <div className="max-w-5xl mx-auto p-4 md:p-6 md:ml-[25rem] shadow-lg"> {/* Responsive padding */}
+    <div className="max-w-5xl mx-auto p-4 md:p-6 md:ml-[25rem] shadow-lg "> {/* Responsive padding */}
   <h1 className="text-2xl md:text-3xl font-bold mt-4 text-center">Admission Form</h1> {/* Responsive text size and center alignment */}
 
   <form onSubmit={handleSubmit} className="space-y-6">
