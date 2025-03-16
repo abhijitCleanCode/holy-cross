@@ -293,13 +293,14 @@ export default function AdmissionForm() {
 
     {/* Submit Button */}
     <div className="flex justify-center">
-      <button
-        type="submit"
-        className="px-6 py-2 bg-primary text-white rounded-md hover:bg-primary/90 transition-colors"
-      >
-        Submit Application
-      </button>
-    </div>
+  <button
+    type="submit"
+    className="w-full max-w-xs px-6 py-2 bg-primary text-white rounded-md hover:bg-primary/90 transition-colors"
+  >
+    Submit Application
+  </button>
+</div>
+
   </form>
 </div>
     </>
