@@ -73,6 +73,14 @@ const Footer = () => {
                   Contact Us
                 </Link>
               </li>
+              <li>
+                <Link
+                  to="https://holycross-beta.vercel.app/"
+                  className="hover:text-blue-300"
+                >
+                  Educloud
+                </Link>
+              </li>
             </ul>
           </div>
 
