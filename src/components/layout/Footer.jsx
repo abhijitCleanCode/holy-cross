@@ -75,7 +75,7 @@ const Footer = () => {
               </li>
               <li>
                 <Link
-                  to="https://holycross-beta.vercel.app/"
+                  to="https://holycross-school-service-beta.vercel.app"
                   className="hover:text-blue-300"
                 >
                   Login
